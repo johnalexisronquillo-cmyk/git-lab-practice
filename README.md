@@ -1,1 +1,1 @@
-This is John Alexis Project.
+This is Collaborative Project.
